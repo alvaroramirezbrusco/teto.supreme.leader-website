@@ -1,2 +1,6 @@
 # teto.supreme.leader-website
-https://www.instagram.com/teto.supreme.leader?igsh=cGc4b210MGN3N2I2
+Tutorial:
+1. Downland the file "manzanas.html".
+2. On a PC or phone, click on the downloaded file and it should open in your browser.
+
+I'll be making a localhost with ASP.NET soon!
